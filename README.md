@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hyun
-- 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning BACKEND BASIC
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> bomul0524@gmail.com
 
