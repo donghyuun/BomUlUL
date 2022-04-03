@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Hyun
+- 👋 Hi, I’m 
 - 👀 I’m interested in 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> bomul0524@gmail.com
+- 📫 How to reach me -> 
 
 <!---
 BomUlUL/BomUlUL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
